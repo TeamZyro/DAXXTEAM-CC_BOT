@@ -331,7 +331,7 @@ async def main():
 
     print("Done Bot Active ✅")
 
-    await compose(clients)
+    #await compose(clients)
 
 if __name__ == "__main__":
     asyncio.run(main())
