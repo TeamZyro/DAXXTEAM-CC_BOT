@@ -351,4 +351,4 @@ async def main():
   await compose(clients)
 
 
-asyncio.run(main())
+main()
